@@ -19,9 +19,9 @@ You'll see the following menu:
     text
     > File System Explorer~#
 
-    >/[Nothing] | Exit
-    >           | Show Path
-    >           | List Objects
+    > 0          | Exit
+    > 1          | Show Path
+    > 2          | List Objects
 
     > Enter option:
 
