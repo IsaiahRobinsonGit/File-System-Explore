@@ -1,5 +1,6 @@
 # File System Explorer
 A simple command-line file system explorer written in C.
+
 How to Compile
 
     make all
